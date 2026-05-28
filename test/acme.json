@@ -1,0 +1,25 @@
+{
+  "letsencrypt": {
+    "Account": {
+      "Email": "",
+      "Registration": {
+        "body": {
+          "status": ""
+        },
+        "uri": ""
+      },
+      "PrivateKey": "",
+      "KeyType": ""
+    },
+    "Certificates": [
+      {
+        "domain": {
+          "main": "example.com"
+        },
+        "certificate": "__CERT__",
+        "key": "__KEY__",
+        "Store": ""
+      }
+    ]
+  }
+}
